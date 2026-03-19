@@ -59,7 +59,7 @@ MongoDB Instance
 1. Clone the Project
 Bash
 ```text
-git clone [https://github.com/your-username/erp-portal.git](https://github.com/your-username/erp-portal.git)
+git clone https://github.com/DevBehindYou/College-ERP-System---MERN
 cd erp-portal
 ```
 3. Backend Setup
